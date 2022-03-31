@@ -1,8 +1,8 @@
 ---
-page_type: sample
+page_type: Helm Templeted on ETS cluster
 products:
 - devops
-description: "Starter project for Azure Pipelines deploying resources on Terraform"
+description: "Helm Templete  for Gihub  Pipelines deploying resources on ETS CLUSTER"
 ---
 
 # Terraform starter project for Azure Pipelines
