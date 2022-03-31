@@ -2,10 +2,10 @@
 page_type: Helm Templeted on ETS cluster
 products:
 - devops
-description: "Helm Templete  for Gihub  Pipelines deploying resources on ETS CLUSTER"
+description: "Helm Templete  for Gihub  Pipelines deploying resources on ETS Cluster"
 ---
 
-# Terraform starter project for Azure Pipelines
+# Helm Terraform Templete for Github  Pipelines
 
 <!-- 
 Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
@@ -15,7 +15,7 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-This project can be used as a starter for Azure Pipelines deploying resources on Terraform.
+This project can be used as a starter for Helm Templete Pipelines deploying resources on ETS Cluster.
 
 ![pipeline jobs](/docs/images/terraform_starter/pipeline_jobs.png)
 
